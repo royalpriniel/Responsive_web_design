@@ -1,0 +1,105 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+}
+nav {
+  background-color: rgb(4, 5, 88);
+  max-width: 100%;
+  min-height: 5vh;
+  margin: auto;
+  font-size: 1.2rem;
+}
+nav a {
+  color: aliceblue;
+  margin: auto;
+  text-align: center;
+  min-height: 4vh;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+nav li {
+  display: inline;
+  margin: 2vh;
+  text-align: center;
+}
+main {
+  margin: auto;
+  text-align: center;
+  min-height: 85vh;
+}
+/* * {
+    border: 1px solid blue;
+  }
+ */
+footer {
+  text-align: center;
+  margin: 0.5vh;
+  background-color: rgb(191, 191, 247);
+  min-height: 7vh;
+  font-size: 1.2rem;
+}
+footer a{
+  color: #9b4004;
+  text-decoration: none;
+}
+footer a:hover{
+  text-decoration: underline;
+}
+#website_name {
+  display: inline-block;
+}
+.surname {
+  display: inline-block;
+}
+main p {
+  font-size: 1.3rem;
+  margin: 3%;
+  text-align: left;
+}
+h1 {
+  font-size: 2.rem;
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+}
+h2 {
+  font-size: 1.6rem;
+  max-width: 60%;
+  text-align: center;
+  margin: auto;
+}
+.pic {
+  margin: auto;
+  display: inline-block;
+  text-align: center;
+}
+.pic img {
+  margin: auto;
+  max-width: 45vw;
+}
+@media screen and (min-width: 700px) {
+  main {
+    max-width: 65vw;
+  }
+  main h1{
+    text-align: center;
+    margin: auto;
+    max-width: 40vw;
+  }
+  main h2{
+    text-align: left;
+    margin: 2% 0%;
+    max-width: 60vw;
+  }
+  main p {
+    margin: 2% 0%;
+    padding: 0;
+    border: none;
+  }
+}
