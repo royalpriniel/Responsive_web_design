@@ -28,7 +28,7 @@ nav a{
 nav a:hover{
   text-decoration: underline;
 }
-#website_name:hover{
+.website_name:hover{
   color:gold;
 }
 nav li{
@@ -73,7 +73,10 @@ footer a:hover{
 #footer{
   max-width: 85vw;
 }
-#website_name {
+.website_name {
+  display: inline-block;
+}
+.surname {
   display: inline-block;
 }
 h1 {
