@@ -95,8 +95,7 @@ h1 {
     max-width: 90vw;
   }
   main {
-  margin: 0 auto 20px auto;
-  width: 85vw;
-  background-color: rgb(176, 217, 250);
+    width: 95vw;
+    background-color: rgb(176, 217, 250);
   }  
 }
