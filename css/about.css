@@ -51,7 +51,7 @@ main {
 
 footer {
   text-align: center;
-  margin: 0 0.5vh;
+  margin: 0 auto;
   background-color: rgb(191, 191, 247);
   min-height: 7.5%;
   width: 100vw;
