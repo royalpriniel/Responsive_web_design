@@ -55,6 +55,9 @@ main {
 section {
   margin: 2rem 0;
 }
+.container {
+  margin: 2rem auto;
+}
 footer {
   text-align: center;
   margin: 0 auto;
