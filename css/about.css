@@ -35,6 +35,9 @@ nav li{
   margin: 2vh;
   text-align: center;
 }
+ul.nav{
+  margin: 0px;
+}
 .block {
   display: block;
   margin: auto;
