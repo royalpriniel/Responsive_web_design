@@ -47,7 +47,7 @@ main {
   width: 65vw;
   font-size: 1.2rem;
   background-color: rgb(176, 217, 250);
-  padding: auto;
+  padding: 10px;
 }
 /* div {
   border: 1px solid blue;
