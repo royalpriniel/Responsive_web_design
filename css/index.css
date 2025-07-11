@@ -109,6 +109,6 @@ h1 {
   }
   .pic img {
     margin: auto;
-    max-width: 90vw;
+    max-width: 100%;
   }
 }
