@@ -45,6 +45,7 @@ main {
   text-align: center;
   min-height: 87.5vh;
   width: 65vw;
+  font-size: 2rem;
   background-color: rgb(176, 217, 250);
   padding: auto;
 }
@@ -83,7 +84,7 @@ footer a:hover{
   display: inline-block;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   max-width: 80%;
   margin: auto;
 }
