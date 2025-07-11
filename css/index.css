@@ -63,7 +63,7 @@ footer {
   margin: 0 auto;
   background-color: rgb(191, 191, 247);
   min-height: 7.5%;
-  width: 100vw;
+  max-width: 100vw;
   font-size: 1.2rem;
   clear:both;
   position: relative;
