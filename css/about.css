@@ -52,7 +52,9 @@ main {
 /* div {
   border: 1px solid blue;
 } */
-
+section {
+  margin: 2rem 0;
+}
 footer {
   text-align: center;
   margin: 0 auto;
