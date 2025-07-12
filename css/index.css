@@ -36,7 +36,7 @@ nav a:hover{
 nav li{
   display: inline;
   text-align: center;
-  margin: 0.75rem 15vw;
+  margin: 0.75rem 20vw;
 }
 .block {
   display: block;
@@ -97,7 +97,7 @@ h1 {
 }
 .pic img{
   margin: auto;
-  max-width: 100%;
+  max-width: 45vw;
   text-align: center;
 }
 @media screen and (max-width: 700px) {
