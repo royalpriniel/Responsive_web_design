@@ -103,12 +103,13 @@ h1 {
 @media screen and (max-width: 700px) {
   .pic {
     width: 90vw;
-    margin: 0;
+    margin: auto;
     display: block;
     text-align: center;
   }
   .pic img {
     margin: 0.25rem;
     max-width: 95%;
+    text-align: center;
   }
 }
