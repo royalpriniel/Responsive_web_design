@@ -108,7 +108,7 @@ h1 {
     text-align: center;
   }
   .pic img {
-    margin: 0.25rem;
+    margin: 0.25rem, 0.125rem;
     max-width: 95%;
     text-align: center;
   }
