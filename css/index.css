@@ -36,7 +36,7 @@ nav a:hover{
 nav li{
   display: inline;
   text-align: center;
-  margin: 2vh 10vw;
+  margin: 0.75rem 10vw;
 }
 .block {
   display: block;
