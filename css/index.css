@@ -102,6 +102,7 @@ h1 {
 }
 @media screen and (max-width: 700px) {
   .pic {
+    width: 85vw;
     margin: auto;
     display: block;
   }
