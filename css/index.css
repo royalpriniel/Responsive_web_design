@@ -90,6 +90,7 @@ h1 {
     margin: auto;
 }
 .pic {
+  width: 45vw;
   margin: auto;
   display: inline;
   text-align: center;
