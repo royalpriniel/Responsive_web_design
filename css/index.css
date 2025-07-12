@@ -105,9 +105,10 @@ h1 {
     width: 90vw;
     margin: auto;
     display: block;
+    text-align: center;
   }
   .pic img {
-    margin: auto;
+    margin: 0;
     max-width: 100%;
   }
 }
