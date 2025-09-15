@@ -24,7 +24,7 @@ nav a{
   color:#ccc;
   margin: 0;
   text-align: center;
-  height: 4vh;
+  min-height: 4vh;
   text-decoration: none;
 }
 nav a:hover{
