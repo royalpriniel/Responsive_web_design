@@ -22,7 +22,7 @@ nav {
 }
 nav a{
   color:#ccc;
-  margin: 0;
+  margin: auto 0;
   text-align: center;
   min-height: 4vh;
   text-decoration: none;
