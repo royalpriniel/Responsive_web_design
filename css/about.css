@@ -35,11 +35,7 @@ nav li{
   text-align: center;
   margin: 0.75rem 10vw;
 }
-.block {
-  display: block;
-  margin: auto;
-  text-align: center;
-}
+
 main {
   margin: 20px auto 20px auto;
   line-height: 1.5;
@@ -99,15 +95,7 @@ h1 {
   margin: auto;  
   text-align: center;
 }
-.pic {
-  margin: auto;
-  display: inline;
-  text-align: center;
-}
-.pic img{
-  margin: auto;
-  max-width: 45vw;
-}
+
 .navi{
   margin: 0px;
 }
@@ -116,14 +104,6 @@ h2 {
   font-size: 1.4rem;
 }
 @media screen and (max-width: 700px) {
-  .pic {
-    margin: auto;
-    display: block;
-  }
-  .pic img {
-    margin: auto;
-    max-width: 90vw;
-  }
   main {
     width: 92.5vw;
     background-color: rgb(176, 217, 250);
