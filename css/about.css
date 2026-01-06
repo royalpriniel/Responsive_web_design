@@ -9,7 +9,7 @@ html {
 body {
   background-color: #eee;
 }
-ul {
+.container ul {
   margin: 0 2rem;
 }
 
