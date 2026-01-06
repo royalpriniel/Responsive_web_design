@@ -30,8 +30,7 @@ main {
   /* Prevents the item from stretching; keeps it at its original width */
   justify-self: center; 
   
-  /* Ensures it doesn't exceed the width of a single column if needed */
-  max-width: 100%; 
+  max-width: 50%; 
 }
 
 .pic img {
