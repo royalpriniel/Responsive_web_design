@@ -71,6 +71,10 @@ h2 {
   text-align: left;
   font-size: 1.4rem;
 }
+.navi{
+  margin: 0px;
+}
+
 @media screen and (max-width: 700px) {
   main {
     width: 92.5vw;
