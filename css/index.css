@@ -23,6 +23,16 @@ main {
   max-width: 95vw;
   margin: 0 auto;
 }
+.gallery-wrapper > *:last-child {
+  /* Spans the item across both columns */
+  grid-column: span 2;
+  
+  /* Prevents the item from stretching; keeps it at its original width */
+  justify-self: center; 
+  
+  /* Ensures it doesn't exceed the width of a single column if needed */
+  max-width: 100%; 
+}
 
 .pic img {
   width: 100%;
