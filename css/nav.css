@@ -1,0 +1,21 @@
+nav {
+  background-color: rgb(19, 20, 99);
+  position: sticky;
+  top: 0;
+  padding: 0.75rem 0;
+  z-index: 1000;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none; /* Removes bullets */
+  gap: 3vw;         /* Dynamic spacing between links */
+}
+
+nav a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
