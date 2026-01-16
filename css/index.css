@@ -49,7 +49,7 @@ main {
   } 
   gallery-wrapper {
   display: grid;
-  /* Maintains my 2-column arrangement */
-  grid-template-columns: repeat(1, 1fr);
+  /* Arrangement chanes to a 1-column arrangement for mobile devices */
+  grid-template-columns: 1fr;
   }
 }
