@@ -54,7 +54,5 @@ h2 {
 @media screen and (max-width: 700px) {
   main {
     width: 92.5vw;
-    background-color: rgb(176, 217, 250);
-    padding: 10px;
   }  
 }
