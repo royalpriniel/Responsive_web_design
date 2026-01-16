@@ -49,7 +49,8 @@ main {
   } 
   gallery-wrapper {
   display: grid;
-  /* Arrangement chanes to a 1-column arrangement for mobile devices */
+  /* Arrangement changes to a 1-column arrangement for mobile devices */
   grid-template-columns: 1fr;
+  gap: 2vw;
   }
 }
