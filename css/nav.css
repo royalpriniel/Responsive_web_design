@@ -3,7 +3,7 @@ nav {
   display: flex;
   justify-content: center;
   height: 7vw;
-  width: 100%;
+  width: 100vw;
   background-color: rgb(19, 20, 99);
   position: sticky;
   top: 0;
@@ -29,6 +29,7 @@ nav a {
 nav a:visited {
   color:#ccc;
 }
+
 
 
 
