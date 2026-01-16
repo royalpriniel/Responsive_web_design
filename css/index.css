@@ -46,5 +46,10 @@ main {
     margin: 0 auto;
     padding: 10px;
     text-align: center;
-  }  
+  } 
+  gallery-wrapper {
+  display: grid;
+  /* Maintains my 2-column arrangement */
+  grid-template-columns: repeat(1, 1fr);
+  }
 }
