@@ -53,7 +53,7 @@ main {
   .gallery-wrapper > *:last-child {
   grid-template-columns: 1fr;
   gap: 2vw;
-  width: 100%;
+  width: 90vw;
   justify-self: center;
   }
 }
