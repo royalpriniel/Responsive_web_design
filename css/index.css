@@ -47,7 +47,7 @@ main {
     padding: 10px;
     text-align: center;
   } 
-  gallery-wrapper {
+  .gallery-wrapper {
   /* Arrangement changes to a 1-column arrangement for mobile devices */
   grid-template-columns: 1fr;
   gap: 2vw;
