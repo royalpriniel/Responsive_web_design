@@ -11,6 +11,9 @@ footer {
   z-index: 1000;
   width: 100vw;
 }
+footer *{
+  text-align: center;
+}
 footer a{
   color: #ccc;
   text-decoration: none;
