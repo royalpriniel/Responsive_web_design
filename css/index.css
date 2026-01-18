@@ -38,8 +38,6 @@ main {
   height: auto;
   display: block;
 }
-/* --- RESPONSIVE BREAKPOINT (300px and Below) --- */
-/* This only triggers for extremely narrow devices/windows */
 @media screen and (max-width: 700px) {
   main {
     width: 92.5vw;
@@ -55,5 +53,6 @@ main {
   .gallery-wrapper > *:last-child {
   grid-template-columns: 1fr;
   gap: 2vw;
+  width: 100%;
   }
 }
