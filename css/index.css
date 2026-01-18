@@ -54,5 +54,6 @@ main {
   grid-template-columns: 1fr;
   gap: 2vw;
   width: 100%;
+  justify-self: center;
   }
 }
