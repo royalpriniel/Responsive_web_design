@@ -20,7 +20,7 @@ main {
   /* Maintains my 2-column arrangement */
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
-  max-width: 95vw;
+  max-width: 90vw;
   margin: 0 auto;
 }
 .gallery-wrapper > *:last-child {
@@ -53,6 +53,6 @@ main {
   .gallery-wrapper > *:last-child {
   grid-template-columns: 1fr;
   gap: 2vw;
-  max-width: 100%;
+  width: 100%;
   }
 }
