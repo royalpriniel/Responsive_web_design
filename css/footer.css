@@ -9,6 +9,7 @@ footer {
   background-color: rgb(19, 20, 99);
   padding: 0.75rem 0;
   z-index: 1000;
+  width: 100vw;
 }
 footer a{
   color: #ccc;
