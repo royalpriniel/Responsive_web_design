@@ -1,9 +1,19 @@
-../* --- BASE STYLES --- */
+/* --- BASE STYLES --- */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   text-align: center;
+}
+a {
+  color: #1111cc;
+  text-decoration: none;
+}
+a:visited {
+  color: #1111cc;
+}
+a:hover {
+  color: gold;
 }
 
 body {
