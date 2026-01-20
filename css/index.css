@@ -51,9 +51,7 @@ main {
   gap: 2vw;
   }
   .gallery-wrapper > *:last-child {
-  grid-template-columns: 1fr;
-  gap: 2vw;
-  width: 90vw;
-  justify-self: center;
+  max-width: 100%;
+  grid-column: span 1;
   }
 }
