@@ -9,7 +9,7 @@ a {
   color: #1111cc;
   text-decoration: none;
 }
-a:visited {
+main a:visited {
   color: #1111cc;
 }
 a:hover {
