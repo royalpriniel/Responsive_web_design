@@ -33,12 +33,16 @@ nav a {
 nav a:visited {
   color:#ccc;
 }
+nav a:hover {
+  color:gold;
+}
 @media screen and (max-width: 300px) {
   nav {
     flex-direction: column; /* Stack Nav items */
     gap: 0.5rem;
   }
 }
+
 
 
 
