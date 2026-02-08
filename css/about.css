@@ -29,9 +29,16 @@ main {
 /* div {
   border: 1px solid blue;
 } */
-section {
+.container{
+  text-align: center;
+}
+section>*{
   text-align: left;
   margin: 2rem 0;
+  width:100%;
+}
+.container>*{
+  width: 100%;
 }
 .website_name {
   display: inline-block;
