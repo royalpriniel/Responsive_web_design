@@ -5,6 +5,13 @@
   box-sizing: border-box;
   text-align: center;
 }
+
+.website_name{
+  display: inline-block;
+}
+.surname{
+  display: inline-block;
+}
 a {
   color: #1111cc;
   text-decoration: none;
