@@ -20,6 +20,7 @@ nav ul {
   flex-direction:row;
   justify-content: space-around;
   align-items: center;
+  width: 90vw;
   list-style: none; /* Removes bullets */
   gap: 8vw;         /* Dynamic spacing between links */
 }
@@ -42,6 +43,7 @@ nav a:hover {
     gap: 0.5rem;
   }
 }
+
 
 
 
