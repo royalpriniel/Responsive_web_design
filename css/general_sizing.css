@@ -1,5 +1,6 @@
 main{
-  min-height: 75vh;
+  min-height: calc(100vh - 140px);
+};
 }
 body{
   min-height: 100vh;
