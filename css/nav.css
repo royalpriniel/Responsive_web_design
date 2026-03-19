@@ -8,7 +8,7 @@ nav {
   display: flex;
   justify-content: space-around;
   height: 70px;
-  width: 100vw;
+  width: 100%;
   background-color: rgb(19, 20, 99);
   position: relative;
   top: 0;
